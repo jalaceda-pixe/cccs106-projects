@@ -66,3 +66,5 @@
 - [ ] personal_info_gui.py with filled form and generated profile
 
 ## Future Enhancements
+
+[Ideas for improving the applications or additional features to implement]
