@@ -1,9 +1,9 @@
 # Lab 2 Report: Git Version Control and Flet GUI Development
 
-**Student Name:** [Your Full Name]
-**Student ID:** [Your Student ID]
-**Section:** [Your Section]
-**Date:** [Submission Date]
+**Student Name:** Janice Laceda \
+**Student ID:** 23100***** \
+**Section:**  BSCS 3B \
+**Date:** October 1, 2025
 
 ## Git Configuration
 
